@@ -1,2 +1,2 @@
-# hello-world
-Repository xd
+# lab1.ca
+bartnykas.ca
